@@ -17,10 +17,8 @@ The dashboard provides interactive insights into business performance covering s
 ---
 
 ## 🗂️ Repository Structure
-.
-├── README.md # Project documentation
-├── screenshots/ # Dashboard preview images
-│ └── dashboard-overview.png
+- README.md # Project documentation
+- screenshots/ # Dashboard preview images
 
 ---
 
@@ -40,8 +38,8 @@ This dashboard integrates the following data sources (available data is currentl
 
 ## ⚙️ How to Use
 1. Open the **[Live Dashboard Link](https://lookerstudio.google.com/u/0/reporting/cca42c48-08f9-445d-9845-e0749980ff69/page/d7MRF)**.  
-2. Review KPIs in the **[highlighted section]** for quick business insights.
-3. Review trends across weekly performance or monthly customer retention or behaviour in the tabs
+2. Review KPIs in the Performance Overview for quick business insights.
+3. Review trends across weekly performance in the Performance Overview or monthly customer retention or behaviour in the Retention Overview or Customer Journey Overview tabs
 
 ---
 
