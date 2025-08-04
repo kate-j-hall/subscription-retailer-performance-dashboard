@@ -17,8 +17,8 @@ The dashboard provides interactive insights into business performance covering s
 ---
 
 ## 🗂️ Repository Structure
--- README.md # Project documentation
--- screenshots/ # Dashboard preview images
+- README.md # Project documentation
+- screenshots/ # Dashboard preview images
 
 ---
 
